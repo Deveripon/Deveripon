@@ -1,3 +1,5 @@
+<a href="https://gitroll.io/profile/uGyJ8l144UOao3WmNMWRBFIDoEBh2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGyJ8l144UOao3WmNMWRBFIDoEBh2" alt="GitRoll Profile Badge"/></a>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Dearingbuzz) 
