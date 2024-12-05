@@ -1,7 +1,7 @@
 
 <h1 align="center"> <strong> Shahadat Hussain Ripon <strong/> </h1>
 <h3 align="center">Full Stack Web Application Developer</h3>
-[![Download CV](https://img.shields.io/badge/Download-CV-blue)](https://github.com/johnDoe/portfolio/raw/main/My_CV.pdf)
+[Download CV](https://github.com/johnDoe/portfolio/raw/main/My_CV.pdf)
 
 <a href="https://gitroll.io/profile/uGyJ8l144UOao3WmNMWRBFIDoEBh2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGyJ8l144UOao3WmNMWRBFIDoEBh2" alt="GitRoll Profile Badge"/></a>
   
