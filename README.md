@@ -1,7 +1,8 @@
 
 <h1 align="center"> <strong> Shahadat Hussain Ripon <strong/> </h1>
 <h3 align="center">Full Stack Web Application Developer</h3>
-[Downlaod My CV](https://github.com/Deveripon/my-cv-as-frontend-developer/blob/main/Ripon_Mia_Frontend_Developer.pdf)
+  <div> <a href="https://github.com/Deveripon/my-cv-as-frontend-developer/blob/main/Ripon_Mia_Frontend_Developer.pd">Downlaod My Cv</a></div>
+
 
 <a href="https://gitroll.io/profile/uGyJ8l144UOao3WmNMWRBFIDoEBh2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGyJ8l144UOao3WmNMWRBFIDoEBh2" alt="GitRoll Profile Badge"/></a>
   
