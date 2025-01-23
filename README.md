@@ -40,12 +40,16 @@ With a strong passion for web development and years of experience working on mod
 
   <hr/>
 
-<div align="center">
-  <a href="https://github.com/deveripon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deveripon&show_icons=true&theme=tokyonight" alt="deveripon stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=deveripon&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-  </a>
-</div>
+<details>
+  <summary>📊 GitHub Stats (Click to expand)</summary>
+  <br />
+  <div align="center">
+    <a href="https://github.com/deveripon">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deveripon&show_icons=true&theme=tokyonight" alt="deveripon stats"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=deveripon&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+    </a>
+  </div>
+</details>
 
 ---
 
