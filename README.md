@@ -41,7 +41,7 @@ With a strong passion for web development and years of experience working on mod
   <hr/>
 
 <details>
-  ## <summary><strong>📊 GitHub Stats (Click to expand)</strong></summary>
+   <summary><strong>📊 GitHub Stats (Click to expand)</strong></summary>
   <br />
   <div align="center">
     <a href="https://github.com/deveripon">
