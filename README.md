@@ -21,7 +21,7 @@ With a strong passion for web development and years of experience working on mod
   </tr>
 <hr/>
   <tr>
-    <td><strong>Backend</strong></td>
+    <td><strong>Database</strong></td>
     <br>
     <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/></td>
   </tr>
