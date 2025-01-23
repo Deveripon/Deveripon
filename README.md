@@ -46,9 +46,9 @@ With a strong passion for web development and years of experience working on mod
 ## 🌐 **Connect With Me**
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" height="40" width="40" /></a>
-  <a href="https://twitter.com/yourtwitter" target="blank"><img align="center" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter" height="40" width="40" /></a>
-  <a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/apple-mail.png" alt="email" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/deveripon" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" height="40" width="40" /></a>
+  <a href="https://x.com/MdShahadatHuss5" target="blank"><img align="center" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter" height="40" width="40" /></a>
+  <a href="mailto:devripon.io@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/apple-mail.png" alt="email" height="40" width="40" /></a>
 </p>
 
 ---
