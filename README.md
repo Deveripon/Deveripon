@@ -2,7 +2,7 @@
 
 With a strong passion for web development and years of experience working on modern frontend solutions, I focus on crafting responsive, scalable, and high-performance applications. My expertise spans **React**, **Next.js**, **JavaScript**, and more. I thrive on clean, maintainable code and user-centered design, combining technical skills with creativity to bring projects to life. 🚀
 
-  <div> <a href="https://github.com/Deveripon/my-cv-as-frontend-developer/raw/main/Ripon_Mia_Frontend_Developer.pdf">Downlaod My Cv</a></div>
+  <div> <a href="https://github.com/Deveripon/my-cv-as-frontend-developer/raw/main/Ripon_miah_Frontend_developer_compact.pdf">Downlaod My Cv</a></div>
   <br/>
 
 ## 🎨 **Languages and Tools**
