@@ -1,6 +1,11 @@
-# 👋 **Hi, this is Shahadat Hussain Ripon**
+👋 Hi there! I'm a self-taught JavaScript Developer with a knack for creating engaging and responsive frontend applications. While I have experience in full-stack development, my true passion lies in crafting intuitive and polished user interfaces.
 
-With a strong passion for web development and years of experience working on modern frontend solutions, I focus on crafting responsive, scalable, and high-performance applications. My expertise spans **React**, **Next.js**, **JavaScript**, and more. I thrive on clean, maintainable code and user-centered design, combining technical skills with creativity to bring projects to life. 🚀
+✨ What drives me?
+
+A relentless curiosity to learn and adapt to new technologies.
+A strong focus on delivering clean, maintainable, and efficient code.
+Building projects that bridge creativity and functionality.
+📚 I’m always on the lookout for opportunities to collaborate, learn, and contribute to impactful projects. Let’s build something amazing together! 🚀
 
   <div> <a href="https://github.com/Deveripon/my-cv-as-frontend-developer/raw/main/Ripon_miah_Frontend_developer_compact.pdf">Downlaod My Cv</a></div>
   <br/>
