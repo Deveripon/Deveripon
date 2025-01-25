@@ -5,7 +5,7 @@
 -  A relentless curiosity to learn and adapt to new technologies.
 -  A strong focus on delivering clean, maintainable, and efficient code.
 -  Building projects that bridge creativity and functionality.
--  
+   
 📚 I’m always on the lookout for opportunities to collaborate, learn, and contribute to impactful projects. Let’s build something amazing together! 🚀
 
   <div> <a href="https://github.com/Deveripon/my-cv-as-frontend-developer/raw/main/Ripon_miah_Frontend_developer_compact.pdf">Downlaod My Cv</a></div>
