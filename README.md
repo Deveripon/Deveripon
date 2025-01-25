@@ -10,13 +10,6 @@ I'm a self-taught Frontend-Focused JavaScript Developer with a passion for craft
 
 📈 Eager Learner: I thrive on learning new tools, frameworks, and best practices to stay ahead in the ever-evolving tech landscape.
 
-🛠️ Tech I Love Working With
-
-Frontend: React.js, Next.js, JavaScript, HTML5, CSS3 (and modern libraries)
-
-Backend: Node.js, Express.js, REST APIs
-
-Other Tools: Git, VS Code, Prettier, and a growing interest in TypeScript
 
 🌟 What Drives Me?
 I'm deeply passionate about solving problems, creating meaningful user experiences, and writing clean, maintainable code. I’m always looking for opportunities to contribute to exciting projects and grow as a developer.
