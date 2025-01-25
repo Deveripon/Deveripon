@@ -12,9 +12,13 @@ I'm a self-taught Frontend-Focused JavaScript Developer with a passion for craft
 
 
 🌟 What Drives Me?
+
+
 I'm deeply passionate about solving problems, creating meaningful user experiences, and writing clean, maintainable code. I’m always looking for opportunities to contribute to exciting projects and grow as a developer.
 
 🤝 Let’s Build Together!
+
+
 I’m open to collaborations, contributions, and exploring innovative ideas. Let’s connect and create something incredible. 🚀
    
 
