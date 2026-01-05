@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Deveripon/Deveripon/refs/heads/main/devripon.jpg"
-       width="160"
        alt="Shahadat Hussain Ripon"
        style="border-radius:50%" />
 </p>
