@@ -107,16 +107,6 @@ I care deeply about:
 
 ---
 
-### ⚖️ Law Learning & Examination Platform
-
-**Tech:** Next.js · Full Stack
-
-* Complete learning & exam preparation system
-* Clean UI & scalable frontend architecture
-* Domain-driven product design
-
----
-
 ### ⚛️ Reactive Accelerator (Bangla React Docs)
 
 **Tech:** React · Documentation
