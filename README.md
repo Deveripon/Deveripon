@@ -60,16 +60,17 @@ I’m open to collaborations, contributions, and exploring innovative ideas. Let
 
   <hr/>
 
-<details>
-   <summary><strong>📊 GitHub Stats (Click to expand)</strong></summary>
-  <br />
-  <div align="center">
-    <a href="https://github.com/deveripon">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deveripon&show_icons=true&theme=tokyonight" alt="deveripon stats"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=deveripon&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-    </a>
-  </div>
-</details>
+<strong>📊 GitHub Stats</strong>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deveripon&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deveripon&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deveripon&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deveripon&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deveripon&theme=algolia&utcOffset=8)
 
 ---
 
