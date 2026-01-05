@@ -144,7 +144,7 @@ I regularly write about:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Top Languages & Stats
 
 <div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deveripon&theme=algolia" width="24%" height="150px" />
@@ -152,16 +152,6 @@ I regularly write about:
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deveripon&theme=algolia" width="49%" height="150px" />
 </div>
 
-
-  
-
----
-
-## 🏆 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deveripon&layout=compact&theme=transparent&hide_border=true" />
-</p>
 
 ---
 
