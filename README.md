@@ -146,10 +146,10 @@ I regularly write about:
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deveripon&theme=algolia" width="45%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deveripon&theme=algolia" width="45%" />
-</p>
+</div>
 
 
 ---
