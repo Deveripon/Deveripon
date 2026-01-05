@@ -1,76 +1,184 @@
-👋 Hey there! Welcome to my world of JavaScript
 
-I'm a self-taught Frontend-Focused JavaScript Developer with a passion for crafting interactive, user-friendly web applications. Over the years, I've tackled full-stack projects, mastering both frontend and backend development. But my true strength? Creating beautiful, intuitive interfaces that bring ideas to life.
+# 👋 Hi, I’m **Shahadat Hussain Ripon** (aka **devripon**)
 
-🚀 What makes me unique?
-
-🧑‍💻 Frontend Enthusiast: I specialize in building dynamic, responsive, and accessible user interfaces.
-
-🌐 Full-Stack Explorer: While my heart is in frontend, I’ve dived into backend technologies to deliver end-to-end solutions.
-
-📈 Eager Learner: I thrive on learning new tools, frameworks, and best practices to stay ahead in the ever-evolving tech landscape.
-
-
-🌟 What Drives Me?
-
-
-I'm deeply passionate about solving problems, creating meaningful user experiences, and writing clean, maintainable code. I’m always looking for opportunities to contribute to exciting projects and grow as a developer.
-
-🤝 Let’s Build Together!
-
-
-I’m open to collaborations, contributions, and exploring innovative ideas. Let’s connect and create something incredible. 🚀
-   
-
-  <div> <a href="https://github.com/Deveripon/my-cv-as-frontend-developer/raw/main/Ripon_Miah.pdf">Downlaod My Cv</a></div>
-  <br/>
-
-## 🎨 **Languages and Tools**
-
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <br>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,js,ts,figma" height="40"/></td>
-  </tr>
-<hr/>
-
-  <tr>
-    <td><strong>Backend</strong></td>
-    <br>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma" height="40"/></td>
-  </tr>
-<hr/>
-  <tr>
-    <td><strong>Database</strong></td>
-    <br>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/></td>
-  </tr>
-<hr/>
-  <tr>
-    <td><strong>Version Control</strong></td>
-    <br>
-    <td><img src="https://skillicons.dev/icons?i=git,github,gitlab" height="40"/></td>
-  </tr>
-<hr/>
-  <tr>
-    <td><strong>DevOps</strong></td>
-    <br>
-    <td><img src="https://skillicons.dev/icons?i=docker" height="40"/></td>
-  </tr>
-
-  <hr/>
-
+🚀 **Full Stack Web Developer | Scalable Solutions Architect**
+I design, build, and scale modern web applications with a strong focus on **frontend excellence**, **clean architecture**, and **real-world product thinking**.
 
 ---
 
-## 🌐 **Connect With Me**
+## 🌟 Professional Summary
 
-<p align="left">
-  <a href="https://linkedin.com/in/deveripon" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" height="40" width="40" /></a>
-  <a href="https://x.com/MdShahadatHuss5" target="blank"><img align="center" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter" height="40" width="40" /></a>
-  <a href="mailto:devripon.io@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/apple-mail.png" alt="email" height="40" width="40" /></a>
+I’m a **Frontend-focused Full Stack Developer** with hands-on experience in building **production-ready web applications** from scratch — from UI/UX design to backend APIs and deployment workflows.
+
+I care deeply about:
+
+* ✨ Clean & intuitive user experiences
+* 🧠 Scalable and maintainable architectures
+* 🚀 Performance, accessibility, and best practices
+
+---
+
+## 🧠 Core Competencies
+
+### 🎨 Frontend Development
+
+* Advanced **React** & **Next.js** application architecture
+* Component-driven & design-system-based UI development
+* Responsive, mobile-first & accessible interfaces
+* Performance optimization & modern rendering strategies
+
+### 🧩 Backend Development
+
+* REST & GraphQL API design
+* Authentication & authorization (JWT, RBAC, session-based)
+* Database schema design & secure data handling
+* Backend-for-frontend (BFF) mindset
+
+### 🏗️ System Thinking
+
+* Scalable folder & module structures
+* Separation of concerns
+* Clean code & SOLID principles
+* Monorepo & multi-project architecture
+
+---
+
+## 🛠️ Technologies I Work With
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,bootstrap,figma" />
+
+---
+
+### 🧩 Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,nestjs" />
+
+---
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+
+---
+
+### ⚙️ DevOps & Tooling
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab" />
+
+---
+
+## 💼 Experience
+
+### 🧑‍💻 Full Stack Developer
+
+**Remote / Freelance**
+
+* Designed & developed multiple full-stack web applications
+* Built scalable frontend systems using **Next.js & React**
+* Developed secure backends with **Node.js & NestJS**
+* Implemented authentication, authorization & RBAC systems
+* Worked closely with UI/UX designs to deliver pixel-perfect UIs
+
+---
+
+## 🧩 Featured Projects
+
+### 🚀 Full-Stack Starter Kit (Monorepo)
+
+**Tech:** Next.js · NestJS · Auth.js · JWT · RBAC · Prisma
+
+* Production-ready full-stack architecture
+* Secure authentication & role-based authorization
+* Developer-friendly boilerplate for rapid project bootstrapping
+* Well-documented & open-sourced
+
+---
+
+### 📚 Tapascript – Learning Platform
+
+**Tech:** React · Node.js · Database · Auth
+
+* Contributed ~70% of the entire codebase
+* YouTube API integration for learning content
+* Student dashboards, profiles & badges system
+* Authentication, authorization & schema management
+
+---
+
+### ⚖️ Law Learning & Examination Platform
+
+**Tech:** Next.js · Full Stack
+
+* Complete learning & exam preparation system
+* Clean UI & scalable frontend architecture
+* Domain-driven product design
+
+---
+
+### ⚛️ Reactive Accelerator (Bangla React Docs)
+
+**Tech:** React · Documentation
+
+* Complete React documentation in Bangla 🇧🇩
+* Structured explanations with real-world examples
+* Community-focused educational initiative
+
+---
+
+## 📝 Articles & Blogs
+
+I regularly write about:
+
+* Modern JavaScript & React patterns
+* Full-stack architecture & best practices
+* Real-world development experiences
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deveripon&show_icons=true&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deveripon&theme=transparent&hide_border=true" height="165" />
 </p>
 
 ---
 
-**Let’s build something amazing together! 🚀**
+## 🏆 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deveripon&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let’s Build Something Great
+
+I’m open to:
+
+* 🔹 Freelance & remote opportunities
+* 🔹 Open-source collaboration
+* 🔹 Building impactful products
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/deveripon" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="40" />
+  </a>
+  <a href="https://x.com/MdShahadatHuss5" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" height="40" />
+  </a>
+  <a href="mailto:devripon.io@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/apple-mail.png" height="40" />
+  </a>
+</p>
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
+
