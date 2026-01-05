@@ -4,7 +4,7 @@
        style="border-radius:50%" />
 </p>
 
-# 👋 Hi, I’m **Shahadat Hussain Ripon** (aka **devripon**)
+# 👋 Hi, I’m **Shahadat Hussain Ripon** (**devripon**)
 
 🚀 **Full Stack Web Developer | Scalable Solutions Architect**
 I design, build, and scale modern web applications with a strong focus on **frontend excellence**, **clean architecture**, and **real-world product thinking**.
