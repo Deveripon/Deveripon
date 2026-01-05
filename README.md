@@ -146,10 +146,7 @@ I regularly write about:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deveripon&show_icons=true&theme=transparent&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deveripon&theme=transparent&hide_border=true" height="165" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deveripon&theme=algolia)
 
 ---
 
