@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deveripon/Deveripon/refs/heads/main/ripon.jpg"
+  <img src="https://raw.githubusercontent.com/Deveripon/Deveripon/refs/heads/main/devripon1.jpg"
        alt="Shahadat Hussain Ripon"
        style="border-radius:50%" />
 </p>
