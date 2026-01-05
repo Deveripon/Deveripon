@@ -151,12 +151,14 @@ I regularly write about:
 ---
 
 
-## 📄 Resume & Portfolio
-
-👉 **[Download My CV](https://github.com/Deveripon/my-cv-as-frontend-developer/raw/main/Ripon_Miah.pdf)**  
-
-🌐 **Portfolio Website:**  
-🔗 https://devripon.vercel.app
+<p align="left">
+  <a href="https://github.com/Deveripon/my-cv-as-frontend-developer/raw/main/Ripon_Miah.pdf">
+    <img src="https://img.shields.io/badge/Download-CV-brightgreen?style=for-the-badge" />
+  </a>
+  <a href="https://devripon.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-blueviolet?style=for-the-badge" />
+  </a>
+</p>
 
 
 ## 🤝 Let’s Build Something Great
