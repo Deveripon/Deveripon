@@ -10,6 +10,15 @@
 🚀 **Full Stack Web Developer | Scalable Solutions Architect**
 I design, build, and scale modern web applications with a strong focus on **frontend excellence**, **clean architecture**, and **real-world product thinking**.
 
+<p align="left">
+  <a href="https://github.com/Deveripon/my-cv-as-frontend-developer/raw/main/Ripon_Miah.pdf">
+    <img src="https://img.shields.io/badge/Download-CV-brightgreen?style=for-the-badge" />
+  </a>
+  <a href="https://devripon.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-blueviolet?style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 ## 🌟 Professional Summary
@@ -149,17 +158,6 @@ I regularly write about:
 </p>
 
 ---
-
-
-<p align="left">
-  <a href="https://github.com/Deveripon/my-cv-as-frontend-developer/raw/main/Ripon_Miah.pdf">
-    <img src="https://img.shields.io/badge/Download-CV-brightgreen?style=for-the-badge" />
-  </a>
-  <a href="https://devripon.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live-blueviolet?style=for-the-badge" />
-  </a>
-</p>
-
 
 ## 🤝 Let’s Build Something Great
 
