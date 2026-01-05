@@ -60,9 +60,6 @@ I’m open to collaborations, contributions, and exploring innovative ideas. Let
 
   <hr/>
 
-<strong>📊 GitHub Stats</strong>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deveripon&layout=compact&theme=vision-glow)
 
 ---
 
