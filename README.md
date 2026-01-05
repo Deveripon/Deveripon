@@ -146,11 +146,9 @@ I regularly write about:
 
 ## 📊 GitHub Stats
 
-<div align="left" style={
-  height:"50%"
-}>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deveripon&theme=algolia" width="49%"  />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deveripon&theme=algolia" width="49%"  />
+<div align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deveripon&theme=algolia" width="45%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deveripon&theme=algolia" width="45%" />
 </div>
 
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deveripon&theme=algolia" />
