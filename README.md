@@ -24,6 +24,14 @@ I care deeply about:
 
 ---
 
+## 📄 Resume & Portfolio
+
+👉 **[Download My CV](https://github.com/Deveripon/my-cv-as-frontend-developer/raw/main/Ripon_Miah.pdf)**  
+
+🌐 **Portfolio Website:**  
+🔗 https://devripon.vercel.app
+
+
 ## 🧠 Core Competencies
 
 ### 🎨 Frontend Development
