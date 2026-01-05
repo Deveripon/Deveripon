@@ -147,8 +147,8 @@ I regularly write about:
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deveripon&theme=algolia" width="45%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deveripon&theme=algolia" width="45%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deveripon&theme=algolia" width="45%" height="150px" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deveripon&theme=algolia" width="45%" height="150px" />
 </div>
 
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deveripon&theme=algolia" />
