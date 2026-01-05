@@ -62,15 +62,7 @@ I’m open to collaborations, contributions, and exploring innovative ideas. Let
 
 <strong>📊 GitHub Stats</strong>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deveripon&theme=algolia)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deveripon&theme=algolia)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deveripon&theme=algolia)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deveripon&theme=algolia)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deveripon&theme=algolia&utcOffset=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deveripon&layout=compact&theme=vision-glow)
 
 ---
 
