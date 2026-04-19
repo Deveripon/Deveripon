@@ -10,7 +10,7 @@
 I design, build, and scale modern web applications with a strong focus on **frontend excellence**, **clean architecture**, and **real-world product thinking**.
 
 <p align="left">
-  <a href="https://github.com/Deveripon/my-cv-as-frontend-developer/raw/main/Ripon_Miah.pdf">
+  <a href="https://github.com/Deveripon/my-cv-as-frontend-developer/raw/main/Ripon_miah.pdf">
     <img src="https://img.shields.io/badge/Download-CV-brightgreen?style=for-the-badge" />
   </a>
   <a href="https://devripon.vercel.app">
